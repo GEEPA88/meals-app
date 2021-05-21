@@ -55,6 +55,7 @@ const DUMMY_CATEGORIES = const [
     color: Colors.teal,
   ),
 ];
+
 const DUMMY_MEALS = const [
   Meal(
     id: 'm1',
